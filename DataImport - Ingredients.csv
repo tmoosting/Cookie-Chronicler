@@ -1,0 +1,60 @@
+Ingredient,Purpose,Consistency,Operators-for-output
+flour,Structure,dry,sift
+butter,Fat,wet,melt
+oil,Fat,wet,heat
+salt,Flavor,dry,
+oats,Structure,dry,
+chocolate,Sugar,dry,"[chop, melt]"
+cocoa powder,Flavor,dry,
+sugar,Sugar,dry,
+vanilla extract,Flavor,wet,
+cream,Fat,wet,whip
+corn syrup,Sugar,wet,
+molasses,Sugar,wet,
+egg,Binding,wet,[beat. whisk]
+baking powder,Rising,dry,
+cranberries,Chunks,dry,
+wheat germ,Structure,dry,toast
+cinnamon,Flavor,dry,
+espresso powder,Flavor,dry,
+ginger,Flavor,dry,
+cloves,Flavor,dry,
+pepper,Flavor,dry,crush
+lemon juice,Flavor,wet,
+rum,Flavor,wet,
+water,Binding,wet,
+milk powder,Flavor,dry,
+baking soda,Rising,dry,
+pistachios,Chunks,dry,crush
+almonds,Chunks,dry,"[crush, blanch,slice]"
+mixfruit,Chunks,dry,
+butterscotch,Chunks,dry,
+potatochips,Chunks,dry,
+peanut butter,Fat,wet,
+almond paste,Sugar,dry,
+coloring,Decorate,wet,
+matcha,Flavor,dry,sift
+jam,Sugar,wet,
+banana,Flavor,wet,slice
+honey,Sugar,wet,
+tahini,Flavor,wet,
+sesame seeds,Decorate,dry,
+waffle,Fat,dry,crush
+ice cream,Sugar,wet,melt
+pecans,Chunks,dry,crush
+coconut flakes,Chunks,dry,
+pumpkin seeds,Structure,dry,
+cream of tartar,Rising,dry,
+vanilla bean,Flavor,dry,
+coconut,Flavor,dry,"[slice,shred]"
+milk,Structure,wet,heat
+raisins,Chunks,dry,
+applesauce,Flavor,wet,
+yam,Chunks,dry,slice
+lemon zest,Flavor,wet,
+nuts,Chunks,dry,crush
+cornstarch,Structure,dry,
+cardamom,Flavor,dry,ground
+nutmeg,Flavor,dry,ground
+orange zest,Flavor,wet,
+sparkling sugar,Decorate,dry,
