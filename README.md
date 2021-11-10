@@ -1,4 +1,5 @@
 # Cookie-Chronicler
+Based on an assignment for Masters course: [Computational Creativity](https://studiegids.universiteitleiden.nl/courses/103312/computational-creativity) at Leiden University
 
 An evolutionary algorithm cookie recipe generator
 
