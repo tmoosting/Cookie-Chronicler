@@ -1,6 +1,6 @@
 # Cookie-Chronicler
 
-A cookie recipe generator based on evluationary algorithms
+An evolutionary algorithm cookie recipe generator
 
 ## Recipe Cookbook: Examples
 [Link](https://drive.google.com/file/d/1AreaEpLrHYjNsJ35Ek2kQ6mYoZnGzMIQ/view?usp=sharing) 
