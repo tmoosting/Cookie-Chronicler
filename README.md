@@ -3,7 +3,7 @@
 </sub>
 
 
-An evolutionary algorithm cookie recipe generator
+An evolutionary algorithm cookie recipe generator.
 
 ### Recipe Cookbook: Examples
 [Link](https://drive.google.com/file/d/1AreaEpLrHYjNsJ35Ek2kQ6mYoZnGzMIQ/view?usp=sharing) 
