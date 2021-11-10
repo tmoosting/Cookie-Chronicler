@@ -5,11 +5,11 @@ An evolutionary algorithm cookie recipe generator
 ### Recipe Cookbook: Examples
 [Link](https://drive.google.com/file/d/1AreaEpLrHYjNsJ35Ek2kQ6mYoZnGzMIQ/view?usp=sharing) 
 
-## System Requirements
+### System Requirements
 * python 3.6
 * jupyter
 
-## Files
+### Files
 * Logbook.ipynb: report and execution
 * cookie_class.py: python code and dataclass `CookieGenerator`
 * DataImport - Ingredients.csv: ingredient data sheet
@@ -17,7 +17,7 @@ An evolutionary algorithm cookie recipe generator
 * .jpegs in /pics folder: used for recipe output (linked to environment condition)
 
 
-## Running the application
+### Running the application
 
 Make sure you have all the files above & that your working directory is set where the above files are. 
 
