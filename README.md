@@ -9,9 +9,8 @@ An evolutionary algorithm cookie recipe generator
 * python 3.6
 * jupyter
 
-## File contents
-* Logbook.ipynb
-* Cookie Chronicles: cookbook with examples
+## Files
+* Logbook.ipynb: report and execution
 * cookie_class.py: python code and dataclass `CookieGenerator`
 * DataImport - Ingredients.csv: ingredient data sheet
 * DataImport - RecipesFull.csv: recipes data sheet
